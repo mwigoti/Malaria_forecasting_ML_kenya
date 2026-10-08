@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and artifacts
+*.joblib
+*.pkl
+*.csv
+!data/**/*.csv
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/

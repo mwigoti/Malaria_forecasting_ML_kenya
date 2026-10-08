@@ -1,0 +1,22 @@
+{
+    "model_type": "XGBoost",
+    "target": "incidence_per_1000",
+    "features": [
+        "incidence_lag1",
+        "incidence_lag2",
+        "incidence_lag3",
+        "incidence_lag12",
+        "temperature",
+        "precipitation",
+        "NDVI",
+        "ITN_coverage",
+        "elevation",
+        "population_density",
+        "month_sin",
+        "month_cos"
+    ],
+    "training_period": "2015-2021",
+    "validation_period": "2022-2023",
+    "test_period": "2024-2025",
+    "random_state": 42
+}

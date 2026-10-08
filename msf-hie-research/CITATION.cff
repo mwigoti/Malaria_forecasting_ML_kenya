@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it using the metadata below."
+title: "MSF HIE Research"
+authors:
+  - family-names: "Research"
+    given-names: "Team"
+    affiliation: "MSF"
+version: "0.1.0"
+date-released: "2026-10-08"
+url: "https://example.org/msf-hie-research"
