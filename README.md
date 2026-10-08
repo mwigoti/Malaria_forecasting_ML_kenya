@@ -1,5 +1,7 @@
 # Malaria Monthly Incidence Forecasting in Kenya
 
+Developer: Henry Mwoha
+
 This project develops an end-to-end Machine Learning pipeline using **XGBoost Regressor** to predict monthly malaria incidence (per 1,000 population) across 47 counties in Kenya. 
 
 ## 1. Project Background & Objective
