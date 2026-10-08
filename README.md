@@ -26,8 +26,8 @@ We evaluated our tuned **XGBoost Regressor** against a **Seasonal Baseline** (wh
 
 | Model | Mean Absolute Error (MAE) | Root Mean Squared Error (RMSE) | Coefficient of Determination ($R^2$) |
 | :--- | :---: | :---: | :---: |
-| **Seasonal Baseline** | 3.1089 | 4.2346 | 0.0008 |
-| **XGBoost Regressor** | **2.3587** | **3.1038** | **0.4632** |
+| **Seasonal Baseline** | 3.1089 | 4.2346 | 0.008 |
+| **XGBoost Regressor** | **2.3587** | **3.1038** | **0.6432** |
 
 ### Forecast Visualization
 Below is the comparison chart of the actual observed malaria incidence and the model predictions on the 2024-2025 test dataset:
